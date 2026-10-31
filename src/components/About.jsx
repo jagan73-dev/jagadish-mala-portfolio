@@ -63,6 +63,8 @@ export default function About() {
                   <img
                     src={stackImage}
                     alt="Jagadish Mala — Java FullStack Developer, TAP Academy student"
+                    loading="lazy"
+                    decoding="async"
                     className="w-full h-full rounded-xl object-cover object-top"
                   />
                 </div>

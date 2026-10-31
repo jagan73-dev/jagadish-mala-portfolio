@@ -38,6 +38,7 @@ export default function Hero() {
         ref={videoRef}
         className="absolute inset-0 w-full h-full object-contain object-top md:object-right z-0"
         playsInline
+        preload="metadata"
         poster={heroPoster}
         onEnded={() => setIsPlaying(false)}
       >
