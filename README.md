@@ -2,7 +2,7 @@
 
 A high-performance, single-page developer portfolio showcasing full-stack Java, Spring Boot, and modern web applications.
 
-**Live site:** [https://YOUR-SITE-URL/](https://YOUR-SITE-URL/)
+**Live site:** [https://jagadish-mala-portfolio.vercel.app](https://jagadish-mala-portfolio.vercel.app)
 
 Built during the placement training program at [TAP Academy](https://thetapacademy.com/) (full-stack development, AI and augmented reality training).
 
